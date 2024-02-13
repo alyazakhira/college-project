@@ -1,5 +1,5 @@
 ## About
-This parent repository contains all project I did in order to fulfill my college assignment. Please switch branch for more details.
+This parent repository contains all archived projects (.zip extension) I did in order to fulfill my college assignment. Please switch branch for more details.
 ### Branch Navigation
 1. 2nd-semester
    - PPW 1 (Web Programming 1)
