@@ -10,7 +10,7 @@ This parent repository contains all archived projects (.zip extension) I did in 
    - PPPB 1 (Android Programming 1)
      - Talks about basic Android programming using Java.
    - PAD 1 (Basic Application Project 1)
-     - I'm part of [Zero Plastic Project](https://github.com/alyazakhira/PAD1-Zero_Plastic.git) team as a back-end developer.
+     - I'm part of [Zero Plastic Project](https://github.com/alyazakhira/PAD1-ZeroPlastic.git) team as a back-end developer.
 5. 4th-semester
    - PPPB 2 (Android Programming 2)
      - Talks about intermediate Android programming using Java.
