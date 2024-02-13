@@ -1,5 +1,10 @@
 ## About
-This parent repository contains all archived projects (.zip extension) I did in order to fulfill my college assignment. Please switch branch for more details.
+This parent repository contains all archived projects (.zip extension) I did in order to fulfill my college assignment.
+
+There are no projects on the first semester because we focused on practicing out computational thinking.
+Then on the fifth semester I was a cohort in Bangkit Academy 2023 - Cloud Computing Learning Path. Please check [Course Submission Repository](https://github.com/alyazakhira/course-submission.git) for the project I worked on.
+
+Please switch branch for more details.
 ## Branch Navigation
 1. 2nd-semester
    - PPW 1 (Web Programming 1)
